@@ -221,3 +221,10 @@ ul {
     border-style: solid;
     padding: 4px 20px;
 }
+
+footer {
+    padding: 48px;
+    text-align: center;
+    background-color: #1F2937;
+    color: #e5e7e8;
+}
